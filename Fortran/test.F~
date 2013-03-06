@@ -1,0 +1,17 @@
+program test
+	REAL a,b,c,d
+	marker a
+	common a,b,c
+	a= 4.0
+	b=5.0
+ 
+  call sub
+	write(*,*) a,b,c
+end program
+
+subroutine sub
+  real x,y,z
+  common x,y,z
+  x=3.3
+  z=4.4
+end
