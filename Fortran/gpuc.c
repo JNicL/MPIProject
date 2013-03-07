@@ -3,7 +3,11 @@
 #define test test_
 
 void test(){
-	printf("Hi");
+	printf("Hi\n");
+}
+
+void ex_ ( void (*f)(int) ,int k) {
+	/*(*f)(k);*/
 }
 
 
