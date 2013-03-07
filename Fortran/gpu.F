@@ -20,5 +20,7 @@ C                call test
         subroutine func(i)
                 implicit none
                 integer :: i 
+
+                write (*,*) 'Called func'
                 i=i*2
         end

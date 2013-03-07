@@ -6,10 +6,8 @@ void test(){
 	printf("Hi\n");
 }
 
-void ex_ ( void (*f)(int) ,int k) {
-	/*(*f)(k);*/
+typedef void (*subroutine)(int *);
+
+void ex_ ( subroutine foo ,int *k) {
+  	foo(k);
 }
-
-
-
-
