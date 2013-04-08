@@ -1,0 +1,338 @@
+ Adjusting sqrtS to above-threshold value    344.00999999999999     
+ ============================
+ SM parameters
+ ----------------------------
+ 1/Alfa =   137.03599967900001     
+ Alfas =   9.9177461967304648E-002
+ GF =   1.1663700000000000E-005
+ SW2 =  0.22262651564387248     
+ ----------------------------
+ Gauge-boson masses:
+ MW =   80.399000000000001     
+ MZ =   91.187600000000003     
+ ----------------------------
+ Fermion masses:
+ ME =   5.1099890999999997E-004
+ MM =  0.10565836700000000     
+ ML =   1.7768200000000001     
+ MU =   5.3800000000000001E-002
+ MC =   1.2700000000000000     
+ MT =   172.00000000000000     
+ MD =   5.3800000000000001E-002
+ MS =  0.10100000000000001     
+ MB =   4.6699999999999999     
+ ----------------------------
+ Higgs mass:
+ MH =   125.00000000000000     
+ ============================
+|# MH=  125.0000
+Partitioning phase:
+
+Iteration 1 (pass 0):  8 regions
+   1137 integrand evaluations so far,
+    596 in optimizing regions,
+    166 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 2 (pass 0):  39 regions
+   4482 integrand evaluations so far,
+   1932 in optimizing regions,
+    681 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 3 (pass 1):  70 regions
+   8174 integrand evaluations so far,
+   3564 in optimizing regions,
+   1230 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 4 (pass 2):  101 regions
+  11866 integrand evaluations so far,
+   5196 in optimizing regions,
+   1779 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 5 (pass 3):  132 regions
+  16348 integrand evaluations so far,
+   7504 in optimizing regions,
+   2409 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 6 (pass 4):  163 regions
+  20606 integrand evaluations so far,
+   9616 in optimizing regions,
+   3014 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 7 (pass 5):  194 regions
+  24960 integrand evaluations so far,
+  11832 in optimizing regions,
+   3608 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Main integration on 194 regions with 97 samples per region.
+ Divonne integration results:
+ nregions =         194
+ neval    =       34566
+ fail     =           0
+ 1    0.00000000000000     +-     0.00000000000000        p =  0.000
+ 2    0.00000000000000     +-     0.00000000000000        p =  0.000
+|     344.0100000    
+|+       0.00000000000000        0.00000000000000    
+|+       0.00000000000000        0.00000000000000    
+Partitioning phase:
+
+Iteration 1 (pass 0):  8 regions
+   1137 integrand evaluations so far,
+    596 in optimizing regions,
+    166 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 2 (pass 0):  39 regions
+   4482 integrand evaluations so far,
+   1932 in optimizing regions,
+    681 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 3 (pass 1):  70 regions
+   8174 integrand evaluations so far,
+   3564 in optimizing regions,
+   1230 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 4 (pass 2):  101 regions
+  11866 integrand evaluations so far,
+   5196 in optimizing regions,
+   1779 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 5 (pass 3):  132 regions
+  16348 integrand evaluations so far,
+   7504 in optimizing regions,
+   2409 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 6 (pass 4):  163 regions
+  20606 integrand evaluations so far,
+   9616 in optimizing regions,
+   3014 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 7 (pass 5):  194 regions
+  24960 integrand evaluations so far,
+  11832 in optimizing regions,
+   3608 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Main integration on 194 regions with 97 samples per region.
+ Divonne integration results:
+ nregions =         194
+ neval    =       34566
+ fail     =           0
+ 1    0.00000000000000     +-     0.00000000000000        p =  0.000
+ 2    0.00000000000000     +-     0.00000000000000        p =  0.000
+|     354.0100000    
+|+       0.00000000000000        0.00000000000000    
+|+       0.00000000000000        0.00000000000000    
+Partitioning phase:
+
+Iteration 1 (pass 0):  8 regions
+   1137 integrand evaluations so far,
+    596 in optimizing regions,
+    166 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 2 (pass 0):  39 regions
+   4482 integrand evaluations so far,
+   1932 in optimizing regions,
+    681 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 3 (pass 1):  70 regions
+   8174 integrand evaluations so far,
+   3564 in optimizing regions,
+   1230 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 4 (pass 2):  101 regions
+  11866 integrand evaluations so far,
+   5196 in optimizing regions,
+   1779 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 5 (pass 3):  132 regions
+  16348 integrand evaluations so far,
+   7504 in optimizing regions,
+   2409 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 6 (pass 4):  163 regions
+  20606 integrand evaluations so far,
+   9616 in optimizing regions,
+   3014 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 7 (pass 5):  194 regions
+  24960 integrand evaluations so far,
+  11832 in optimizing regions,
+   3608 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Main integration on 194 regions with 97 samples per region.
+ Divonne integration results:
+ nregions =         194
+ neval    =       34566
+ fail     =           0
+ 1    0.00000000000000     +-     0.00000000000000        p =  0.000
+ 2    0.00000000000000     +-     0.00000000000000        p =  0.000
+|     364.0100000    
+|+       0.00000000000000        0.00000000000000    
+|+       0.00000000000000        0.00000000000000    
+Partitioning phase:
+
+Iteration 1 (pass 0):  8 regions
+   1137 integrand evaluations so far,
+    596 in optimizing regions,
+    166 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 2 (pass 0):  39 regions
+   4482 integrand evaluations so far,
+   1932 in optimizing regions,
+    681 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 3 (pass 1):  70 regions
+   8174 integrand evaluations so far,
+   3564 in optimizing regions,
+   1230 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 4 (pass 2):  101 regions
+  11866 integrand evaluations so far,
+   5196 in optimizing regions,
+   1779 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 5 (pass 3):  132 regions
+  16348 integrand evaluations so far,
+   7504 in optimizing regions,
+   2409 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 6 (pass 4):  163 regions
+  20606 integrand evaluations so far,
+   9616 in optimizing regions,
+   3014 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 7 (pass 5):  194 regions
+  24960 integrand evaluations so far,
+  11832 in optimizing regions,
+   3608 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Main integration on 194 regions with 97 samples per region.
+ Divonne integration results:
+ nregions =         194
+ neval    =       34566
+ fail     =           0
+ 1    0.00000000000000     +-     0.00000000000000        p =  0.000
+ 2    0.00000000000000     +-     0.00000000000000        p =  0.000
+|     374.0100000    
+|+       0.00000000000000        0.00000000000000    
+|+       0.00000000000000        0.00000000000000    
+Partitioning phase:
+
+Iteration 1 (pass 0):  8 regions
+   1137 integrand evaluations so far,
+    596 in optimizing regions,
+    166 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 2 (pass 0):  39 regions
+   4482 integrand evaluations so far,
+   1932 in optimizing regions,
+    681 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 3 (pass 1):  70 regions
+   8174 integrand evaluations so far,
+   3564 in optimizing regions,
+   1230 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 4 (pass 2):  101 regions
+  11866 integrand evaluations so far,
+   5196 in optimizing regions,
+   1779 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 5 (pass 3):  132 regions
+  16348 integrand evaluations so far,
+   7504 in optimizing regions,
+   2409 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 6 (pass 4):  163 regions
+  20606 integrand evaluations so far,
+   9616 in optimizing regions,
+   3014 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Iteration 7 (pass 5):  194 regions
+  24960 integrand evaluations so far,
+  11832 in optimizing regions,
+   3608 in finding cuts
+[1] 0 +- 0
+[2] 0 +- 0
+
+Main integration on 194 regions with 97 samples per region.
+ Divonne integration results:
+ nregions =         194
+ neval    =       34566
+ fail     =           0
+ 1    0.00000000000000     +-     0.00000000000000        p =  0.000
+ 2    0.00000000000000     +-     0.00000000000000        p =  0.000
+|     384.0100000    
+|+       0.00000000000000        0.00000000000000    
+|+       0.00000000000000        0.00000000000000    
+Partitioning phase:
+ ffxc0i: infra-red divergent threepoint function, working with a cutoff    1.0000000000000000     
+ ffxdbd: using IR cutoff lambda^2 =    1.0000000000000000     
+ ffzdbd: using IR cutoff lambda^2 =    1.0000000000000000     
+Please press <ENTER> to continue.Please press <ENTER> to continue.Please press <ENTER> to continue.Please press <ENTER> to continue.Please press <ENTER> to continue.Please press <ENTER> to continue.Please press <ENTER> to continue.Please press <ENTER> to continue.Please press <ENTER> to continue.Please press <ENTER> to continue.
