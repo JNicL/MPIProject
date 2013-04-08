@@ -1,0 +1,325 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Alfa	kernel.c	148;"	d	file:
+Alfa	kernel_tmp.c	148;"	d	file:
+Alfa	kernel_tmp2.c	148;"	d	file:
+BuildProgram	gpuinit.c	/^void BuildProgram(){$/;"	f
+CW	kernel.c	99;"	d	file:
+CW	kernel_tmp.c	99;"	d	file:
+CW	kernel_tmp2.c	99;"	d	file:
+CW2	kernel.c	100;"	d	file:
+CW2	kernel_tmp.c	100;"	d	file:
+CW2	kernel_tmp2.c	100;"	d	file:
+ComplexFun	kernel.c	31;"	d	file:
+ComplexFun	kernel_tmp.c	31;"	d	file:
+ComplexFun	kernel_tmp2.c	31;"	d	file:
+ComplexType	kernel.c	/^typedef struct ComplexType{$/;"	s	file:
+ComplexType	kernel.c	/^} ComplexType;$/;"	t	typeref:struct:ComplexType	file:
+ComplexType	kernel_tmp.c	/^typedef struct ComplexType{$/;"	s	file:
+ComplexType	kernel_tmp.c	/^} ComplexType;$/;"	t	typeref:struct:ComplexType	file:
+ComplexType	kernel_tmp2.c	/^typedef struct ComplexType{$/;"	s	file:
+ComplexType	kernel_tmp2.c	/^} ComplexType;$/;"	t	typeref:struct:ComplexType	file:
+ComplexType	source.c	/^typedef struct ComplexType{$/;"	s	file:
+ComplexType	source.c	/^}ComplexType;$/;"	t	typeref:struct:ComplexType	file:
+CreateBuffers	gpuinit.c	/^void CreateBuffers(size_t port_vec_size,void *portvec,size_t helvars_size, void *helvars,size_t kinvars_size,void *kinvars,size_t comp_size, void *comp){$/;"	f
+CreateKernel	gpuinit.c	/^void CreateKernel(){$/;"	f
+CreateProgram	gpuinit.c	/^void CreateProgram(){$/;"	f
+F1	kernel.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon2	file:
+F1	kernel.c	69;"	d	file:
+F1	kernel_tmp.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon12	file:
+F1	kernel_tmp.c	69;"	d	file:
+F1	kernel_tmp2.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon7	file:
+F1	kernel_tmp2.c	69;"	d	file:
+F2	kernel.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon2	file:
+F2	kernel.c	73;"	d	file:
+F2	kernel_tmp.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon12	file:
+F2	kernel_tmp.c	73;"	d	file:
+F2	kernel_tmp2.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon7	file:
+F2	kernel_tmp2.c	73;"	d	file:
+F3	kernel.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon2	file:
+F3	kernel.c	67;"	d	file:
+F3	kernel_tmp.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon12	file:
+F3	kernel_tmp.c	67;"	d	file:
+F3	kernel_tmp2.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon7	file:
+F3	kernel_tmp2.c	67;"	d	file:
+F4	kernel.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon2	file:
+F4	kernel.c	74;"	d	file:
+F4	kernel_tmp.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon12	file:
+F4	kernel_tmp.c	74;"	d	file:
+F4	kernel_tmp2.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon7	file:
+F4	kernel_tmp2.c	74;"	d	file:
+F5	kernel.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon2	file:
+F5	kernel.c	68;"	d	file:
+F5	kernel_tmp.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon12	file:
+F5	kernel_tmp.c	68;"	d	file:
+F5	kernel_tmp2.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon7	file:
+F5	kernel_tmp2.c	68;"	d	file:
+F6	kernel.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon2	file:
+F6	kernel.c	72;"	d	file:
+F6	kernel_tmp.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon12	file:
+F6	kernel_tmp.c	72;"	d	file:
+F6	kernel_tmp2.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon7	file:
+F6	kernel_tmp2.c	72;"	d	file:
+F7	kernel.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon2	file:
+F7	kernel.c	70;"	d	file:
+F7	kernel_tmp.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon12	file:
+F7	kernel_tmp.c	70;"	d	file:
+F7	kernel_tmp2.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon7	file:
+F7	kernel_tmp2.c	70;"	d	file:
+F8	kernel.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon2	file:
+F8	kernel.c	71;"	d	file:
+F8	kernel_tmp.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon12	file:
+F8	kernel_tmp.c	71;"	d	file:
+F8	kernel_tmp2.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon7	file:
+F8	kernel_tmp2.c	71;"	d	file:
+GPU_INIT	gpuinit.c	/^bool GPU_INIT = false;$/;"	v
+Hel	kernel.c	/^		integer Hel[4];$/;"	m	struct:helvars	file:
+Hel	kernel.c	/^  		integer Hel[4];$/;"	m	struct:hel_comb::__anon3	file:
+Hel	kernel.c	168;"	d	file:
+Hel	kernel.c	169;"	d	file:
+Hel	kernel.c	91;"	d	file:
+Hel	kernel_tmp.c	/^		integer Hel[4];$/;"	m	struct:helvars	file:
+Hel	kernel_tmp.c	/^  		integer Hel[4];$/;"	m	struct:hel_comb::__anon13	file:
+Hel	kernel_tmp.c	168;"	d	file:
+Hel	kernel_tmp.c	169;"	d	file:
+Hel	kernel_tmp.c	91;"	d	file:
+Hel	kernel_tmp2.c	/^		integer Hel[4];$/;"	m	struct:helvars	file:
+Hel	kernel_tmp2.c	/^  		integer Hel[4];$/;"	m	struct:hel_comb::__anon8	file:
+Hel	kernel_tmp2.c	168;"	d	file:
+Hel	kernel_tmp2.c	169;"	d	file:
+Hel	kernel_tmp2.c	91;"	d	file:
+I	ccomplex.h	5;"	d
+LEGS	kernel.c	21;"	d	file:
+LEGS	kernel_tmp.c	21;"	d	file:
+LEGS	kernel_tmp2.c	21;"	d	file:
+MAX_SOURCE_SIZE	gpuinit.c	9;"	d	file:
+MEM_INIT	gpuinit.c	/^bool MEM_INIT = false;$/;"	v
+MW	kernel.c	97;"	d	file:
+MW	kernel_tmp.c	97;"	d	file:
+MW	kernel_tmp2.c	97;"	d	file:
+MW2	kernel.c	98;"	d	file:
+MW2	kernel_tmp.c	98;"	d	file:
+MW2	kernel_tmp2.c	98;"	d	file:
+MZ	kernel.c	95;"	d	file:
+MZ	kernel_tmp.c	95;"	d	file:
+MZ	kernel_tmp2.c	95;"	d	file:
+MZ2	kernel.c	96;"	d	file:
+MZ2	kernel_tmp.c	96;"	d	file:
+MZ2	kernel_tmp2.c	96;"	d	file:
+Pi	kernel.c	149;"	d	file:
+Pi	kernel_tmp.c	149;"	d	file:
+Pi	kernel_tmp2.c	149;"	d	file:
+RealType	kernel.c	11;"	d	file:
+RealType	kernel_tmp.c	11;"	d	file:
+RealType	kernel_tmp2.c	11;"	d	file:
+S	kernel.c	/^	RealType S, T, U;$/;"	m	struct:kinvars	file:
+S	kernel.c	156;"	d	file:
+S	kernel.c	165;"	d	file:
+S	kernel_tmp.c	/^	RealType S, T, U;$/;"	m	struct:kinvars	file:
+S	kernel_tmp.c	156;"	d	file:
+S	kernel_tmp.c	165;"	d	file:
+S	kernel_tmp2.c	/^	RealType S, T, U;$/;"	m	struct:kinvars	file:
+S	kernel_tmp2.c	156;"	d	file:
+S	kernel_tmp2.c	165;"	d	file:
+SW2	kernel.c	101;"	d	file:
+SW2	kernel_tmp.c	101;"	d	file:
+SW2	kernel_tmp2.c	101;"	d	file:
+SpiLB	kernel.c	35;"	d	file:
+SpiLB	kernel_tmp.c	35;"	d	file:
+SpiLB	kernel_tmp2.c	35;"	d	file:
+SpiLV	kernel.c	34;"	d	file:
+SpiLV	kernel_tmp.c	34;"	d	file:
+SpiLV	kernel_tmp2.c	34;"	d	file:
+SpiRB	kernel.c	37;"	d	file:
+SpiRB	kernel_tmp.c	37;"	d	file:
+SpiRB	kernel_tmp2.c	37;"	d	file:
+SpiRV	kernel.c	36;"	d	file:
+SpiRV	kernel_tmp.c	36;"	d	file:
+SpiRV	kernel_tmp2.c	36;"	d	file:
+SpiSpec	kernel.c	33;"	d	file:
+SpiSpec	kernel_tmp.c	33;"	d	file:
+SpiSpec	kernel_tmp2.c	33;"	d	file:
+SpiType	kernel.c	/^ComplexFun SxS(SpiType(l1,l2), SpiType(r1,r2)) {$/;"	f
+SpiType	kernel.c	32;"	d	file:
+SpiType	kernel_tmp.c	/^ComplexFun SxS(SpiType(l1,l2), SpiType(r1,r2)) {$/;"	f
+SpiType	kernel_tmp.c	32;"	d	file:
+SpiType	kernel_tmp2.c	/^ComplexFun SxS(SpiType(l1,l2), SpiType(r1,r2)) {$/;"	f
+SpiType	kernel_tmp2.c	32;"	d	file:
+Spinor	kernel.c	105;"	d	file:
+Spinor	kernel_tmp.c	105;"	d	file:
+Spinor	kernel_tmp2.c	105;"	d	file:
+Sub1	kernel.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon2	file:
+Sub1	kernel.c	75;"	d	file:
+Sub1	kernel_tmp.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon12	file:
+Sub1	kernel_tmp.c	75;"	d	file:
+Sub1	kernel_tmp2.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon7	file:
+Sub1	kernel_tmp2.c	75;"	d	file:
+Sub2	kernel.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon2	file:
+Sub2	kernel.c	76;"	d	file:
+Sub2	kernel_tmp.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon12	file:
+Sub2	kernel_tmp.c	76;"	d	file:
+Sub2	kernel_tmp2.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon7	file:
+Sub2	kernel_tmp2.c	76;"	d	file:
+Sub3	kernel.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon2	file:
+Sub3	kernel.c	77;"	d	file:
+Sub3	kernel_tmp.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon12	file:
+Sub3	kernel_tmp.c	77;"	d	file:
+Sub3	kernel_tmp2.c	/^	ctype F3, F5, F1, F7, F8, F6, F2, F4, Sub1, Sub2, Sub3;$/;"	m	struct:__anon7	file:
+Sub3	kernel_tmp2.c	77;"	d	file:
+T	kernel.c	/^	RealType S, T, U;$/;"	m	struct:kinvars	file:
+T	kernel.c	157;"	d	file:
+T	kernel_tmp.c	/^	RealType S, T, U;$/;"	m	struct:kinvars	file:
+T	kernel_tmp.c	157;"	d	file:
+T	kernel_tmp2.c	/^	RealType S, T, U;$/;"	m	struct:kinvars	file:
+T	kernel_tmp2.c	157;"	d	file:
+ToCC	kernel.c	51;"	d	file:
+ToCC	kernel_tmp.c	51;"	d	file:
+ToCC	kernel_tmp2.c	51;"	d	file:
+ToCT	kernel.c	/^ComplexType ToCT(ctype b){$/;"	f
+ToCT	kernel_tmp.c	/^ComplexType ToCT(ctype b){$/;"	f
+ToCT	kernel_tmp2.c	/^ComplexType ToCT(ctype b){$/;"	f
+U	kernel.c	/^	RealType S, T, U;$/;"	m	struct:kinvars	file:
+U	kernel.c	158;"	d	file:
+U	kernel_tmp.c	/^	RealType S, T, U;$/;"	m	struct:kinvars	file:
+U	kernel_tmp.c	158;"	d	file:
+U	kernel_tmp2.c	/^	RealType S, T, U;$/;"	m	struct:kinvars	file:
+U	kernel_tmp2.c	158;"	d	file:
+abbr0h	kernel.c	/^void abbr0h(vectors_ *vectors,var0h_ *var0h,__global hel_comb *helvars) {$/;"	f
+abbr0h	kernel_tmp.c	/^void abbr0h(vectors_ *vectors,var0h_ *var0h,__global hel_comb *helvars) {$/;"	f
+abbr0h	kernel_tmp2.c	/^void abbr0h(vectors_ *vectors,var0h_ *var0h,__global hel_comb *helvars) {$/;"	f
+born	kernel.c	/^void born(ctype *Ctree,var0h_ *var0h,__global kinvars_ *kinvars){$/;"	f
+born	kernel_tmp.c	/^void born(ctype *Ctree,var0h_ *var0h,__global kinvars_ *kinvars){$/;"	f
+born	kernel_tmp2.c	/^void born(ctype *Ctree,var0h_ *var0h,__global kinvars_ *kinvars){$/;"	f
+c	kernel.c	/^	comp c[LEGS*nvec+1][2][2];$/;"	m	struct:__anon5	file:
+c	kernel_tmp.c	/^	comp c[LEGS*nvec+1][2][2];$/;"	m	struct:__anon15	file:
+c	kernel_tmp2.c	/^	comp c[LEGS*nvec+1][2][2];$/;"	m	struct:__anon10	file:
+carg	ccomplex.h	/^inline float carg(ctype a){$/;"	f
+cdiv	ccomplex.h	/^inline ctype cdiv(ctype a,ctype b){$/;"	f
+checkErr	gpuinit.c	/^void checkErr(cl_int errNum, const char * name){$/;"	f
+cmod	ccomplex.h	/^inline float cmod(ctype a){$/;"	f
+cmult	ccomplex.h	/^inline ctype  cmult(ctype a, ctype b){$/;"	f
+comp	kernel.c	/^}comp;$/;"	t	typeref:struct:__anon4	file:
+comp	kernel_tmp.c	/^}comp;$/;"	t	typeref:struct:__anon14	file:
+comp	kernel_tmp2.c	/^}comp;$/;"	t	typeref:struct:__anon9	file:
+context	gpuinit.c	/^cl_context *context;$/;"	v
+csqrt	ccomplex.h	/^ inline ctype csqrt(ctype a){$/;"	f
+ctype	ccomplex.h	/^typedef double2 ctype;$/;"	t
+device_id	gpuinit.c	/^cl_device_id *device_id;$/;"	v
+double_active	kernel.c	3;"	d	file:
+double_active	kernel.c	5;"	d	file:
+double_active	kernel.c	8;"	d	file:
+double_active	kernel_tmp.c	3;"	d	file:
+double_active	kernel_tmp.c	5;"	d	file:
+double_active	kernel_tmp.c	8;"	d	file:
+double_active	kernel_tmp2.c	3;"	d	file:
+double_active	kernel_tmp2.c	5;"	d	file:
+double_active	kernel_tmp2.c	8;"	d	file:
+elapsed1	measuretime.c	/^long elapsed1 = (t1.tv_sec-t0.tv_sec)*1000000 + t1.tv_usec-t0.tv_usec;$/;"	v
+elapsed2	measuretime.c	/^long elapsed2 = (t2.tv_sec-t1.tv_sec)*1000000 + t2.tv_usec-t1.tv_usec;$/;"	v
+errNum	source.c	/^cl_int errNum;$/;"	v
+getCommandQueue	gpuinit.c	/^cl_command_queue *getCommandQueue(){$/;"	f
+getContext	gpuinit.c	/^cl_context *getContext(){$/;"	f
+getDevice	gpuinit.c	/^cl_device_id *getDevice(){$/;"	f
+getPlatform	gpuinit.c	/^cl_platform_id *getPlatform(){$/;"	f
+get_kernel	gpuinit.c	/^cl_kernel *get_kernel(){$/;"	f
+get_mem	gpuinit.c	/^cl_mem *get_mem(){$/;"	f
+get_program	gpuinit.c	/^cl_program *get_program(){$/;"	f
+gpuinit	gpuinit.c	/^void gpuinit(){$/;"	f
+hel_comb	kernel.c	/^typedef struct hel_comb{$/;"	s	file:
+hel_comb	kernel.c	/^}hel_comb;$/;"	t	typeref:struct:hel_comb	file:
+hel_comb	kernel_tmp.c	/^typedef struct hel_comb{$/;"	s	file:
+hel_comb	kernel_tmp.c	/^}hel_comb;$/;"	t	typeref:struct:hel_comb	file:
+hel_comb	kernel_tmp2.c	/^typedef struct hel_comb{$/;"	s	file:
+hel_comb	kernel_tmp2.c	/^}hel_comb;$/;"	t	typeref:struct:hel_comb	file:
+helvars	kernel.c	/^typedef struct helvars {$/;"	s	file:
+helvars	kernel_tmp.c	/^typedef struct helvars {$/;"	s	file:
+helvars	kernel_tmp2.c	/^typedef struct helvars {$/;"	s	file:
+helvars_	kernel.c	/^	} helvars_;$/;"	t	typeref:struct:helvars	file:
+helvars_	kernel_tmp.c	/^	} helvars_;$/;"	t	typeref:struct:helvars	file:
+helvars_	kernel_tmp2.c	/^	} helvars_;$/;"	t	typeref:struct:helvars	file:
+i	kernel.c	/^	RealType r,i;$/;"	m	struct:__anon4	file:
+i	kernel_tmp.c	/^	RealType r,i;$/;"	m	struct:__anon14	file:
+i	kernel_tmp2.c	/^	RealType r,i;$/;"	m	struct:__anon9	file:
+im	kernel.c	/^	RealType re, im;$/;"	m	struct:ComplexType	file:
+im	kernel_tmp.c	/^	RealType re, im;$/;"	m	struct:ComplexType	file:
+im	kernel_tmp2.c	/^	RealType re, im;$/;"	m	struct:ComplexType	file:
+im	source.c	/^	double re,im;$/;"	m	struct:ComplexType	file:
+imag	ccomplex.h	/^inline float  imag(ctype a){$/;"	f
+initCommandQueue	gpuinit.c	/^void initCommandQueue(cl_command_queue **queue,cl_context *context,cl_device_id *device_id){$/;"	f
+initContext	gpuinit.c	/^void initContext(cl_context **context, cl_device_id *device_id){$/;"	f
+initDevice	gpuinit.c	/^void initDevice(cl_platform_id *platform, cl_device_id **device_id, cl_uint num_devices){$/;"	f
+initPlatform	gpuinit.c	/^void initPlatform(cl_platform_id **platform,cl_uint num_platforms){$/;"	f
+integer	kernel.c	12;"	d	file:
+integer	kernel_tmp.c	12;"	d	file:
+integer	kernel_tmp2.c	12;"	d	file:
+kernel	gpuinit.c	/^cl_kernel *kernel;$/;"	v
+kinvars	kernel.c	/^typedef struct kinvars {$/;"	s	file:
+kinvars	kernel_tmp.c	/^typedef struct kinvars {$/;"	s	file:
+kinvars	kernel_tmp2.c	/^typedef struct kinvars {$/;"	s	file:
+kinvars_	kernel.c	/^} kinvars_;$/;"	t	typeref:struct:kinvars	file:
+kinvars_	kernel_tmp.c	/^} kinvars_;$/;"	t	typeref:struct:kinvars	file:
+kinvars_	kernel_tmp2.c	/^} kinvars_;$/;"	t	typeref:struct:kinvars	file:
+main	source.c	/^int main(){$/;"	f
+mem_obj	gpuinit.c	/^cl_mem *mem_obj;$/;"	v
+num_devices	gpuinit.c	/^cl_uint num_devices;$/;"	v
+num_platforms	gpuinit.c	/^cl_uint num_platforms;$/;"	v
+nvec	kernel.c	/^enum { nvec = 10 };$/;"	e	enum:__anon1	file:
+nvec	kernel_tmp.c	/^enum { nvec = 10 };$/;"	e	enum:__anon11	file:
+nvec	kernel_tmp2.c	/^enum { nvec = 10 };$/;"	e	enum:__anon6	file:
+platform	gpuinit.c	/^cl_platform_id *platform;$/;"	v
+port_vec	kernel.c	/^}port_vec;$/;"	t	typeref:struct:__anon5	file:
+port_vec	kernel_tmp.c	/^}port_vec;$/;"	t	typeref:struct:__anon15	file:
+port_vec	kernel_tmp2.c	/^}port_vec;$/;"	t	typeref:struct:__anon10	file:
+program	gpuinit.c	/^cl_program *program;$/;"	v
+queue	gpuinit.c	/^cl_command_queue *queue;$/;"	v
+r	kernel.c	/^	RealType r,i;$/;"	m	struct:__anon4	file:
+r	kernel_tmp.c	/^	RealType r,i;$/;"	m	struct:__anon14	file:
+r	kernel_tmp2.c	/^	RealType r,i;$/;"	m	struct:__anon9	file:
+re	kernel.c	/^	RealType re, im;$/;"	m	struct:ComplexType	file:
+re	kernel_tmp.c	/^	RealType re, im;$/;"	m	struct:ComplexType	file:
+re	kernel_tmp2.c	/^	RealType re, im;$/;"	m	struct:ComplexType	file:
+re	source.c	/^	double re,im;$/;"	m	struct:ComplexType	file:
+read_kernel_src	gpuinit.c	/^void read_kernel_src(const char *file,char **source,size_t *size){$/;"	f
+real	ccomplex.h	/^inline float  real(ctype a){$/;"	f
+seq	kernel.c	90;"	d	file:
+seq	kernel_tmp.c	90;"	d	file:
+seq	kernel_tmp2.c	90;"	d	file:
+simple_return	kernel.c	/^__kernel void simple_return(__constant ComplexType *IN,__global ComplexType *OUT){$/;"	f
+simple_return	kernel_tmp.c	/^__kernel void simple_return(__global port_vec *portvec,__global hel_comb *h,__global kinvars_ *k,__global comp *res){$/;"	f
+simple_return	kernel_tmp2.c	/^__kernel void simple_return(__global port_vec *portvec,__global hel_comb *h,__global kinvars_ *k,__global comp *res){$/;"	f
+source_size	gpuinit.c	/^size_t source_size;$/;"	v
+source_str	gpuinit.c	/^char *source_str;$/;"	v
+t0	measuretime.c	/^struct timeval t0,t1,t2;$/;"	v	typeref:struct:timeval
+t1	measuretime.c	/^struct timeval t0,t1,t2;$/;"	v	typeref:struct:
+t2	measuretime.c	/^struct timeval t0,t1,t2;$/;"	v	typeref:struct:
+test	kernel.c	/^void test(vectors_ *vectors){$/;"	f
+test	kernel_tmp.c	/^void test(vectors_ *vectors){$/;"	f
+test	kernel_tmp2.c	/^void test(vectors_ *vectors){$/;"	f
+test2	kernel.c	/^void test2(helvars_ *h){$/;"	f
+test2	kernel_tmp.c	/^void test2(helvars_ *h){$/;"	f
+test2	kernel_tmp2.c	/^void test2(helvars_ *h){$/;"	f
+var0h_	kernel.c	/^} var0h_;$/;"	t	typeref:struct:__anon2	file:
+var0h_	kernel_tmp.c	/^} var0h_;$/;"	t	typeref:struct:__anon12	file:
+var0h_	kernel_tmp2.c	/^} var0h_;$/;"	t	typeref:struct:__anon7	file:
+vec	kernel.c	/^  	ctype vec[LEGS*nvec+1][2][2];$/;"	m	struct:vectors	file:
+vec	kernel.c	171;"	d	file:
+vec	kernel.c	172;"	d	file:
+vec	kernel.c	29;"	d	file:
+vec	kernel_tmp.c	/^  	ctype vec[LEGS*nvec+1][2][2];$/;"	m	struct:vectors	file:
+vec	kernel_tmp.c	171;"	d	file:
+vec	kernel_tmp.c	172;"	d	file:
+vec	kernel_tmp.c	29;"	d	file:
+vec	kernel_tmp2.c	/^  	ctype vec[LEGS*nvec+1][2][2];$/;"	m	struct:vectors	file:
+vec	kernel_tmp2.c	171;"	d	file:
+vec	kernel_tmp2.c	172;"	d	file:
+vec	kernel_tmp2.c	29;"	d	file:
+vectors	kernel.c	/^typedef struct vectors{$/;"	s	file:
+vectors	kernel_tmp.c	/^typedef struct vectors{$/;"	s	file:
+vectors	kernel_tmp2.c	/^typedef struct vectors{$/;"	s	file:
+vectors_	kernel.c	/^}vectors_;$/;"	t	typeref:struct:vectors	file:
+vectors_	kernel_tmp.c	/^}vectors_;$/;"	t	typeref:struct:vectors	file:
+vectors_	kernel_tmp2.c	/^}vectors_;$/;"	t	typeref:struct:vectors	file:
